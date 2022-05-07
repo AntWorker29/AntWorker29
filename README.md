@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @AntWorker29
-- 👀 I’m interested in coding and books
-- 🌱 I’m currently learning git
+- 👋 Hi, I’m Antonia
+- 📚I’m interested in coding and books
+- :octocat: I’m currently learning git
 
 <!---
 AntWorker29/AntWorker29 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
